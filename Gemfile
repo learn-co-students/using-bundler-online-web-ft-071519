@@ -1,7 +1,7 @@
 source "https://rubygems.org"
 
 gem "sinatra", "1.4.4"
-gem "octokit", "~>2.0.0"
+gem "octokit", "~>2.0.0", "3.0.0"
 gem "hashie"
 gem "awesome_print", git:'https://github.com/awesome-print/awesome_print.git'
 
